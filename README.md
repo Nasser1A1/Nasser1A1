@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Nasser</h1>
 <h3 align="center">A passionate Software Engineer and AI enthusiast from Egypt</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasjr&label=Profile%20views&color=0e75b6&style=flat" alt="nasjr" /> </p>
+<h3 align="center"> <img align="right" alt="coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif"></h3>
+<img src="https://komarev.com/ghpvc/?username=nasjr&label=Profile%20views&color=0e75b6&style=flat" alt="nasjr" />
 
 - 🌱 I’m currently learning **C#,.NET,ML AND AI RAG STACK**
 
