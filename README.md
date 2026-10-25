@@ -87,12 +87,12 @@ Designed the architecture for querying the whole codebase like a single system.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=00FF9C&icon_color=FF00AA&text_color=FFFFFF" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D0221&ring=00FF9C&fire=FF00AA&currStreakLabel=00FF9C" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nasser1A1&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=00FF9C&icon_color=FF00AA&text_color=FFFFFF" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasser1A1&theme=radical&hide_border=true&background=0D0221&ring=00FF9C&fire=FF00AA&currStreakLabel=00FF9C" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=00FF9C&text_color=FFFFFF" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasser1A1&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=00FF9C&text_color=FFFFFF" height="150" />
 
 </div>
 
@@ -103,9 +103,9 @@ Designed the architecture for querying the whole codebase like a single system.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nasser1A1/Nasser1A1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nasser1A1/Nasser1A1/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nasser1A1/Nasser1A1/output/github-snake.svg" />
 </picture>
 
 </div>
