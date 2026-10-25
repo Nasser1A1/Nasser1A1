@@ -6,7 +6,7 @@
 
 <br/>
 
-![Level](https://img.shields.io/badge/LEVEL-25-FF00AA?style=for-the-badge&labelColor=0D0221)
+![Level](https://img.shields.io/badge/LEVEL-26-FF00AA?style=for-the-badge&labelColor=0D0221)
 ![Class](https://img.shields.io/badge/CLASS-PLATFORM_ENGINEER-00FF9C?style=for-the-badge&labelColor=0D0221)
 ![Guild](https://img.shields.io/badge/GUILD-NAMSHI_%2F_NOON-FFD300?style=for-the-badge&labelColor=0D0221)
 ![Status](https://img.shields.io/badge/STATUS-SHIPPING-00E5FF?style=for-the-badge&labelColor=0D0221)
