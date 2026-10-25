@@ -64,7 +64,7 @@ Mid Level infrastructure / platform engineer at **Namshi / noon**. I keep produc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nasser1A1&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=00FF9C&icon_color=FF00AA&text_color=FFFFFF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nasser1A1&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=00FF9C&icon_color=FF00AA&text_color=FFFFFF"&include_all_commits=true height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasser1A1&theme=radical&hide_border=true&background=0D0221&ring=00FF9C&fire=FF00AA&currStreakLabel=00FF9C" height="165" />
 
 <br/><br/>
