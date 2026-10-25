@@ -22,7 +22,7 @@ Mid Level infrastructure / platform engineer at **Namshi / noon**. I keep produc
 ```text
 > uptime ........ always chasing 99.99%
 > favorite_bug .. the one that hid for six days behind a readiness probe
-> tech stack ........ KK8s, Istio, GCP, Terraform, Pulumi, Python, GitHub Actions
+> tech-stack ........ K8s, Istio, GCP, Terraform, Pulumi, Python, GitHub Actions
 ```
 
 ---
